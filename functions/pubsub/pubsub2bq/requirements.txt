@@ -1,0 +1,2 @@
+google-cloud-bigquery
+google-cloud-logging==1.15.1
